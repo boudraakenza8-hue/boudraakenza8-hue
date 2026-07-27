@@ -1,117 +1,155 @@
-<h1 align="center">Hi 👋, I'm Kenza Boudraa</h1>
+<div align="center">
 
-<h3 align="center">
-🎓 Computer Science Student | 💻 Future Software Engineer | 🚀 Lifelong Learner
-</h3>
+# 👋 Bonjour, je suis Kenza Boudraa
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&color=5A8DEE&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Learning+Programming+Every+Day;Future+Software+Engineer" />
-</p>
+### 🎓 Étudiante en Licence 3 Informatique | 💻 Future Ingénieure Logicielle | 🚀 Passionnée par les nouvelles technologies
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=5A8DEE&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Bienvenue+sur+mon+GitHub+!;Étudiante+en+Informatique;J'apprends+la+programmation+chaque+jour;Je+construis+des+projets+pour+progresser;Future+Ingénieure+Logicielle"/>
 
----
+<br>
 
-# 👩‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&style=for-the-badge&color=blue" />
 
-🎓 I'm a **Computer Science student (L3)**.
-
-🌱 Currently improving my programming and problem-solving skills.
-
-💡 Passionate about **Software Development**, **Artificial Intelligence**, and learning modern technologies.
-
-📚 I enjoy discovering new tools and building projects to improve my experience.
-
-🎯 My ambition is to become a skilled software engineer who creates useful and impactful applications.
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 👩‍💻 À propos de moi
 
-<p align="center">
+Je suis **étudiante en Licence 3 Informatique**, passionnée par le développement logiciel et les nouvelles technologies.
+
+J'aime apprendre de nouvelles compétences, résoudre des problèmes et réaliser des projets qui me permettent de progresser.
+
+Actuellement, je développe mes connaissances en programmation afin de construire des applications utiles et de devenir une ingénieure logicielle compétente.
+
+---
+
+# 🚀 Ce sur quoi je travaille actuellement
+
+- 📚 Structures de données et algorithmes
+- ☕ Java
+- 🐍 Python
+- 🌐 Développement Web
+- 🧠 Programmation Orientée Objet
+- 🌱 Git & GitHub
+- 🤖 Intelligence Artificielle (bases)
+
+---
+
+# 🛠️ Compétences techniques
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,git,github,vscode&perline=5"/>
 
-</p>
+</div>
 
 ---
 
-# 🌱 Currently Learning
+# 📊 Mes statistiques GitHub
 
-✨ Data Structures & Algorithms
+<div align="center">
 
-✨ Object-Oriented Programming
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-✨ Python
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-✨ Java
-
-✨ Git & GitHub
-
-✨ Web Development
-
-✨ Artificial Intelligence Fundamentals
+</div>
 
 ---
 
-# 🎯 Current Goals
+# 🔥 Série de contributions
 
-✔ Improve my programming skills
+<div align="center">
 
-✔ Build personal projects
+<img src="https://streak-stats.demolab.com?user=VOTRE_USERNAME&theme=tokyonight&hide_border=true"/>
 
-✔ Earn professional certifications
-
-✔ Grow my GitHub portfolio
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 Récompenses GitHub
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VOTRE_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🌱 En cours d'apprentissage
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Développement logiciel
+- Algorithmes
+- Java
+- Python
+- Git & GitHub
+- Intelligence Artificielle
 
 ---
 
-# 🌐 Connect with Me
+# 🎯 Mes objectifs
 
-<p align="center">
+- Développer des projets personnels de qualité.
+- Renforcer mes compétences en programmation.
+- Obtenir des certifications reconnues.
+- Construire un portfolio GitHub solide.
+- Continuer à apprendre chaque jour.
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+---
+
+# 🌍 Langues
+
+🇩🇿 Arabe : Langue maternelle
+
+🇫🇷 Français : Bon niveau
+
+🇬🇧 Anglais : En cours d'amélioration
+
+---
+
+# 🤝 Qualités
+
+- Esprit d'équipe
+- Curiosité
+- Résolution de problèmes
+- Apprentissage continu
+- Adaptabilité
+- Organisation
+
+---
+
+# 📂 Mes projets
+
+🚧 Les projets arrivent bientôt...
+
+Je travaille actuellement sur plusieurs projets qui seront publiés progressivement sur ce GitHub.
+
+---
+
+# 📫 Me contacter
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/VOTRE-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="mailto:VOTRE_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 💙 Thanks for visiting my profile!
+## ⭐ Merci pour votre visite !
 
-*"Success is built one line of code at a time."*
+*"Chaque ligne de code est une nouvelle étape vers l'excellence."*
 
-</p>
+N'hésitez pas à découvrir mes projets et à suivre mon évolution.
+
+</div>
