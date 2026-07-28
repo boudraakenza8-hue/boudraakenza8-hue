@@ -27,9 +27,8 @@
 ---
 
 ## ⚙️ Tools:
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,vscode,github," />
 </p>
 
 <p align="center">
@@ -37,6 +36,7 @@
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/WampServer-FB7A24?style=for-the-badge"/>
 </p>
+
 
 ---
 
